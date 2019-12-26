@@ -1,3 +1,6 @@
-num_of_versions: 1
+versions:
+  - 3.8
+
 lts: none
+
 latest: 3.8
