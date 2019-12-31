@@ -1,6 +1,6 @@
 versions:
-  - 3.8
+  - 3.8.0
 
 lts: none
 
-latest: 3.8
+latest: 3.8.0
