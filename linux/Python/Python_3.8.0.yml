@@ -1,5 +1,7 @@
 name: Python
 version: 3.8.0
 url: https://www.python.org/ftp/python/3.8.0/Python-3.8.0.tar.xz
-type: tar.xz
+type: tarball
 file: Python-3.8.0.tar.xz
+installation:
+  type: make

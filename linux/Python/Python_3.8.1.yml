@@ -1,5 +1,7 @@
 name: Python
 version: 3.8.1
 url: https://www.python.org/ftp/python/3.8.1/Python-3.8.1.tgz
-type: tar.xz
-file: Python-3.8.1.tar.xz
+type: tar
+file: Python-3.8.1.tgz
+installation:
+  type: make
