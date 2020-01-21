@@ -5,3 +5,4 @@ type: tar.xz
 file: Python-3.8.0.tar.xz
 installation:
   type: make
+  target: Python-3.8.0

@@ -5,3 +5,4 @@ type: tar.gz
 file: Python-3.8.1.tgz
 installation:
   type: make
+  target: Python-3.8.1
