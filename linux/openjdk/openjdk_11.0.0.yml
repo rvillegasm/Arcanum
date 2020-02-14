@@ -5,4 +5,4 @@ type: tar.gz
 file: openjdk-11+28_linux-x64_bin.tar.gz
 installation:
   type: bin
-  target: jdk-11/bin
+  target: jdk-11
